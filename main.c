@@ -2,7 +2,7 @@
 
 typedef enum _CGSDebugOptions {
     kCGSDebugOptionNone,
-    kCGSDebugOptionNoShadows = 16384
+    kCGSDebugOptionNoShadows = 0x4000
 } CGSDebugOptions;
 
 extern void CGSGetDebugOptions(CGSDebugOptions *options);
