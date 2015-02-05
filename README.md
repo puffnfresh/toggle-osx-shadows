@@ -9,7 +9,7 @@ Run the following commands in Terminal to toggle OS X window shadows off.
 4. `./toggle-osx-shadows`
 
 ## Usage
-Run `./toggle-osx-shadows` (as in step four of installation) if you want shadows on again.
+To turn on shadows again, run `./toggle-osx-shadows` (like in step four above), log out, and log back in.
 
 ## Before
 
