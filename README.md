@@ -9,7 +9,9 @@ Run the following commands in Terminal to toggle OS X window shadows off.
 4. `./toggle-osx-shadows`
 
 ##homebrew install
-  `brew install https://raw.githubusercontent.com/puffnfresh/toggle-osx-shadows/master/homebrew/toggle-osx-shadows.rb`
+```sh
+brew install https://raw.githubusercontent.com/puffnfresh/toggle-osx-shadows/master/homebrew/toggle-osx-shadows.rb
+```
 
 ## Usage
 To turn on shadows again, run `./toggle-osx-shadows` (like in step four above), log out, and log back in.
