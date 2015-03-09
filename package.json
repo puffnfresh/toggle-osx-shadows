@@ -1,0 +1,9 @@
+{
+  "name": "toggle-osx-shadows",
+  "version": "0.0.1",
+  "repo": "puffnfresh/toggle-osx-shadows",
+  "description": "Tiny tool to toggle window shadows on OS X",
+  "keywords": ["osx", "toggle", "shadows"],
+  "install": "make && install toggle-osx-shadows ${PREFIX:-/usr/local}/bin"
+}
+
