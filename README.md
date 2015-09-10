@@ -2,7 +2,7 @@
 
 ## Installation
 
-If you have [clib](https://github.com/clib/clibs) installed do:
+If you have [clib](https://github.com/clibs/clib) installed do:
 
 ```sh
 clib install puffnfresh/toggle-osx-shadows
